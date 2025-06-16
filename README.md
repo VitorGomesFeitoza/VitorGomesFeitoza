@@ -1,6 +1,6 @@
 # Vitor Gomes Feitoza
 
-Hi, I'm Vitor Gomes Feitoza, I'm 25 years old and an IT student based in Tokyo. Passionate about technology, I came to Japan to pursue my studies in Information Technology. I'm currently deepening my skills in C and C++, with a focus on game development. I hold a Level 3 certification in C programming and have also gained experience in web development and Java throughout my studies.
+Hi, I'm Vitor Gomes Feitoza, I'm 25 years old and an IT student in Tokyo. Passionate about technology, I came to Japan to pursue my studies in Information Technology. I'm currently deepening my skills in C and C++, with a focus on game development. I hold a Level 3 certification in C programming and have also gained experience in web development and Java throughout my studies.
 
 
 
