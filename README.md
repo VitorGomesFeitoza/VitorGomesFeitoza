@@ -3,29 +3,28 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50; justify-content: flex-start;">
 
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
-  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
+  <h1 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
     <span>🎓</span> Academic 
-  </h3>
+  </h1>
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 10px; text-align: left;">⚙️  International IT  <em>(In Progress)</em></li>
   </ul>
 </div>
 
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
-  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
+  <h2 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
 
 </div>
 
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
-  <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
+  <h2 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
     <span>🌱</span> Current Learning
-  </h3>
+  </h2>
   <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; text-align: left;">🌐 Web Developer</li>
+    <li style="margin-bottom: 10px; text-align: left;"> Web Developer</li>
     <li style="margin-bottom: 10px; text-align: left;"> C/C++</li>
   </ul>
 </div>
-
 
 <div>
   <strong>Languages & Frameworks</strong><br>
@@ -56,6 +55,6 @@
 
 <div> 
   <a href = "mailto:feitozavg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
