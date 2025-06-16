@@ -7,7 +7,7 @@
     <span>🎓</span> Academic 
   </h2>
   <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; text-align: left;">⚙️  International IT  <em>(In Progress)</em></li>
+    <li style="margin-bottom: 10px; text-align: left;">International IT <em>(In Progress)</em></li>
   </ul>
 </div>
 
