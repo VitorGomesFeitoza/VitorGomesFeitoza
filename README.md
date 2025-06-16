@@ -4,7 +4,7 @@ Hi, I'm Vitor Gomes Feitoza, I'm 25 years old and an IT student based in Tokyo. 
 
 
 
-### 🤖 Linguagens e Tecnologias
+### Languages and Technologies
 
 <img 
     align="left" 
@@ -32,11 +32,27 @@ Hi, I'm Vitor Gomes Feitoza, I'm 25 years old and an IT student based in Tokyo. 
                 
 <img 
     align="left" 
-    alt="VSCODE"
-    title="VSCODE" 
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
     
 <br/>
 <br/>
