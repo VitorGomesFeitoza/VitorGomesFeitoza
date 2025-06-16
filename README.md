@@ -1,31 +1,19 @@
 ## Hello,  I'm  Vitor Gomes Feitoza
 
-<hr>
-
-<h2 style="text-align: center;">🚀 Professional Portfolio</h2>
-<hr>
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #2c3e50; justify-content: flex-start;">
 
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
   <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
-    <span>🎓</span> Academic Background
+    <span>🎓</span> Academic 
   </h3>
   <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; text-align: left;">👨‍💻 Software Engineering <em>(In Progress)</em></li>
-    <li style="margin-bottom: 10px; text-align: left;">🏭 Production Engineering <em>(In Progress)</em></li>
-    <li style="text-align: left;">⚙️ Mechanical Engineering <em>(In Progress)</em></li>
+    <li style="margin-bottom: 10px; text-align: left;">⚙️  International IT  <em>(In Progress)</em></li>
   </ul>
 </div>
 
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
   <h3 style="margin-top: 0; display: flex; align-items: center; gap: 8px; justify-content: flex-start;">
-    <span>💼</span> Experience & Focus
-  </h3>
-  <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; text-align: left;">📊 Freelance Financial Administrator</li>
-    <li style="text-align: left;">💡 Focus: Process Automation, Data Analysis, Tech-Driven Solutions</li>
-  </ul>
+
 </div>
 
 <div style="flex: 1; min-width: 280px; background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 5px solid #4A90E2; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-align: left;">
@@ -33,21 +21,14 @@
     <span>🌱</span> Current Learning
   </h3>
   <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; text-align: left;">🌐 Web Development</li>
-    <li style="margin-bottom: 10px; text-align: left;">🐍 Advanced Python</li>
-    <li style="text-align: left;">🤖 Machine Learning</li>
+    <li style="margin-bottom: 10px; text-align: left;">🌐 Web Developer</li>
+    <li style="margin-bottom: 10px; text-align: left;"> C/C++</li>
   </ul>
 </div>
 
-</div>
-<hr>
-<h3 style="text-align: left;">🛠️ Complete Tech Stack</h3>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 25px 0; text-align: left;">
 
 <div>
   <strong>Languages & Frameworks</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
