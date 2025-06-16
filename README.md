@@ -56,7 +56,7 @@ Hi, I'm Vitor Gomes Feitoza, I'm 25 years old and an IT student based in Tokyo. 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -71,7 +71,7 @@ Hi, I'm Vitor Gomes Feitoza, I'm 25 years old and an IT student based in Tokyo. 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGomesFeitoza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
