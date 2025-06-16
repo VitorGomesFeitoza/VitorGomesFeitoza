@@ -47,13 +47,12 @@ Hi, I'm Vitor Gomes Feitoza, I'm 25 years old and an IT student based in Tokyo. 
           
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="JS"
+    title="JS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
-    
 <br/>
 <br/>
 
