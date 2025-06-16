@@ -21,8 +21,11 @@
     <span>🌱</span> Current Learning
   </h2>
   <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; text-align: left;"> Web Developer</li>
-    <li style="margin-bottom: 10px; text-align: left;"> C/C++</li>
+    <li style="margin-bottom: 10px; text-align: left;">C/C++</li>
+    <li style="margin-bottom: 10px; text-align: left;">Java</li>
+    <li style="margin-bottom: 10px; text-align: left;">Web Developer</li>
+
+    
   </ul>
 </div>
 
