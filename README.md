@@ -58,7 +58,7 @@ Hi, I'm Vitor Gomes Feitoza, I'm 25 years old and an IT student in Tokyo. Passio
 
 ### 📊 Statistics
 
-<!--<p>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -74,6 +74,6 @@ Hi, I'm Vitor Gomes Feitoza, I'm 25 years old and an IT student in Tokyo. Passio
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGomesFeitoza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>-->
+</p>
 
 
